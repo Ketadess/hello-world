@@ -1,2 +1,6 @@
 # hello-world
-Test repository
+
+Hi!
+
+I like HTML coding and web design.
+I want to grow professionally.
